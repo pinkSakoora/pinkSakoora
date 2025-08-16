@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-funny pong game (for now).
-Interested in digital art and GameDev, and an amalgamation of both.
+wth
